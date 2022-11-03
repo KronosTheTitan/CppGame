@@ -1,0 +1,37 @@
+# ninja log v5
+0	33	6891837192281322	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	86291e1eff7d3f91
+15804	15834	6891837350289474	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c396bbe3a2d67fef
+0	33	6891837192281322	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	86291e1eff7d3f91
+15804	15834	6891837350289474	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c396bbe3a2d67fef
+33	14208	6891837334035048	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	c77dd848e491a979
+14208	15803	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4e2de5c03bcce641
+33	14208	6891837334035048	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	c77dd848e491a979
+14208	15803	0	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4e2de5c03bcce641
+15834	15864	6891837350588675	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	246e0d5b6c11ad2b
+15834	15864	6891837350588675	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	246e0d5b6c11ad2b
+15864	15894	6891837350887875	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	27be17386308d705
+15864	15894	6891837350887875	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	27be17386308d705
+15894	15924	6891837351187076	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b50767c845f2e61a
+15894	15924	6891837351187076	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b50767c845f2e61a
+15924	15953	6891837351486276	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d58ed02e2fb33e6d
+15924	15953	6891837351486276	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d58ed02e2fb33e6d
+15953	15995	6891837351905156	CMakeFiles/sfml-populate-complete	a587990603307b1c
+15953	15995	6891837351905156	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a587990603307b1c
+15953	15995	6891837351905156	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a587990603307b1c
+15953	15995	6891837351905156	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a587990603307b1c
+0	1341	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4e2de5c03bcce641
+0	1341	0	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4e2de5c03bcce641
+1341	1371	6891837521210492	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c396bbe3a2d67fef
+1341	1371	6891837521210492	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c396bbe3a2d67fef
+1372	1402	6891837521509691	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	246e0d5b6c11ad2b
+1372	1402	6891837521509691	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	246e0d5b6c11ad2b
+1402	1431	6891837521798915	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	27be17386308d705
+1402	1431	6891837521798915	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	27be17386308d705
+1431	1460	6891837522098120	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b50767c845f2e61a
+1431	1460	6891837522098120	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b50767c845f2e61a
+1460	1490	6891837522397318	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d58ed02e2fb33e6d
+1460	1490	6891837522397318	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d58ed02e2fb33e6d
+1490	1531	6891837522806222	CMakeFiles/sfml-populate-complete	a587990603307b1c
+1490	1531	6891837522806222	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a587990603307b1c
+1490	1531	6891837522806222	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a587990603307b1c
+1490	1531	6891837522806222	D:/05 School/CppGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a587990603307b1c
