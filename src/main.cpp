@@ -12,7 +12,7 @@
 
 void characterAttackItself() {
     // GameObject& character = scene.getGameObjectByName("character");
-    //Make the character attack it self
+    //Make the character attack it's self
     printf("Hello world!\n");
 }
 
